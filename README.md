@@ -41,17 +41,15 @@
 
 [![IoT Project with Raspberry Pi Pico](https://img.youtube.com/vi/8mc7eo-kMWo/hqdefault.jpg)](https://www.youtube.com/watch?v=8mc7eo-kMWo")
 
-![IoT Project with Raspberry Pi Pico](https://www.youtube.com/watch?v=8mc7eo-kMWo)
+[![Motion Detection with a Raspberry Pi Pico](https://img.youtube.com/vi/h0eotQQlndI/hqdefault.jpg)](https://www.youtube.com/watch?v=h0eotQQlndI")
 
-![Motion Detection with a Raspberry Pi Pico](https://www.youtube.com/watch?v=h0eotQQlndI)
+[![Innovation Coffee](https://img.youtube.com/vi/fkN7xYftqog/hqdefault.jpg)](https://www.youtube.com/watch?v=fkN7xYftqog")
 
-![Innovation Coffee - Arm Insider Special](https://www.youtube.com/watch?v=fkN7xYftqog)
+[![TinyML](https://img.youtube.com/vi/FFntvx3HlbM/hqdefault.jpg)](https://www.youtube.com/watch?v=FFntvx3HlbM")
 
-![TinyML with TensorFlow and Mbed OS](https://www.youtube.com/watch?v=FFntvx3HlbM)
+[![Mbed OS Tech Forum](https://img.youtube.com/vi/fiYEHGJ_yrU/hqdefault.jpg)](https://www.youtube.com/watch?v=fiYEHGJ_yrU&t=3149s")
 
-![Mbed OS Tech Forum](https://www.youtube.com/watch?v=fiYEHGJ_yrU&t=3149s)
-
-![IoT Happy Hour #50: Arm shows off a Raspberry Pi Pico controlled by a Balena device](https://www.youtube.com/watch?v=_FXMx1rImZI&t=815s)
+[![IoT Happy Hour](https://img.youtube.com/vi/_FXMx1rImZI/hqdefault.jpg)](https://www.youtube.com/watch?v=_FXMx1rImZI&t=815s")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
