@@ -28,6 +28,13 @@
 
 <img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/christmas.png" width="650" height="400" />
 
+[Intruder detection with ArduCam on Pico board](https://www.hackster.io/grisaficarlo/intruder-detection-with-arducam-on-pico-board-673f35)
+
+<img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/pico_rpi4_wiring.png" width="650" height="400" />
+
+[Programming a Raspberry Pi Pico remotely](https://www.hackster.io/grisaficarlo/programming-a-raspberry-pi-pico-remotely-e23db5)
+
+<img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/balena.png" width="650" height="400" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
