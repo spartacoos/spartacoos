@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p>
 
-- 🤖 I’m currently working on **a crypto-trading bot (for educational purposes) in Rust**
+- 🤖 I’m currently working on **a crypto-trading bot (for educational purposes) in Rust+Python**
 
 - 🌱 I’m currently learning **Rust**
 
