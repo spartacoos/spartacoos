@@ -38,9 +38,8 @@
 
 ### Videos/Features
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h0eotQQlndI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![IoT Project with Raspberry Pi Pico](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=8mc7eo-kMWo")
+[![IoT Project with Raspberry Pi Pico](https://img.youtube.com/vi/8mc7eo-kMWo/hqdefault.jpg)](https://www.youtube.com/watch?v=8mc7eo-kMWo")
 
 ![IoT Project with Raspberry Pi Pico](https://www.youtube.com/watch?v=8mc7eo-kMWo)
 
