@@ -22,7 +22,7 @@
 ### Hardware Projects
 [![Low-Power IoT Intruder Detector with RPi4 + Pico =250x250](https://raw.githubusercontent.com/spartacoos/assets/main/low_power.png)](https://www.hackster.io/grisaficarlo/low-power-iot-intruder-detector-with-rpi4-pico-4c37a9)
 
-<img src="https://raw.githubusercontent.com/spartacoos/assets/main/low_power.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/spartacoos/assets/main/low_power.png" width="400" height="400" />
 
 
 <h3 align="left">Connect with me:</h3>
