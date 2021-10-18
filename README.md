@@ -37,11 +37,21 @@
 <img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/balena.png" width="650" height="400" />
 
 ### Videos/Features
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0eotQQlndI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IoT Project with Raspberry Pi Pico](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=8mc7eo-kMWo")
+
 ![IoT Project with Raspberry Pi Pico](https://www.youtube.com/watch?v=8mc7eo-kMWo)
+
 ![Motion Detection with a Raspberry Pi Pico](https://www.youtube.com/watch?v=h0eotQQlndI)
+
 ![Innovation Coffee - Arm Insider Special](https://www.youtube.com/watch?v=fkN7xYftqog)
+
 ![TinyML with TensorFlow and Mbed OS](https://www.youtube.com/watch?v=FFntvx3HlbM)
+
 ![Mbed OS Tech Forum](https://www.youtube.com/watch?v=fiYEHGJ_yrU&t=3149s)
+
 ![IoT Happy Hour #50: Arm shows off a Raspberry Pi Pico controlled by a Balena device](https://www.youtube.com/watch?v=_FXMx1rImZI&t=815s)
 
 <h3 align="left">Connect with me:</h3>
