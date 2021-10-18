@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Hardware Projects
-[![Low-Power IoT Intruder Detector with RPi4 + Pico](https://hackster.imgix.net/uploads/attachments/1248872/_6BlaxKpS1O.blob?auto=compress%2Cformat&w=900&h=675&fit=min)](https://www.hackster.io/grisaficarlo/low-power-iot-intruder-detector-with-rpi4-pico-4c37a9)
+[![Low-Power IoT Intruder Detector with RPi4 + Pico | width=100](https://hackster.imgix.net/uploads/attachments/1248872/_6BlaxKpS1O.blob?auto=compress%2Cformat&w=900&h=675&fit=min)](https://www.hackster.io/grisaficarlo/low-power-iot-intruder-detector-with-rpi4-pico-4c37a9)
 
 
 <h3 align="left">Connect with me:</h3>
