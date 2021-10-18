@@ -24,6 +24,10 @@
 
 <img src="https://raw.githubusercontent.com/spartacoos/assets/main/low_power.png" width="650" height="400" />
 
+[Christmas Gift Idea - Quote Delivery Device](https://www.hackster.io/grisaficarlo/christmas-gift-idea-quote-delivery-device-4cce75)
+
+<img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/christmas.png" width="650" height="400" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
