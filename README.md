@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlo PG</h1>
-<h3 align="center">A curious student from Venezuela (with a few Italian roots) currently residing in 🇬🇧.</h3>
+<h3 align="center">A curious student from Venezuela (with a few Italian roots) currently residing in 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartacoos&label=Profile%20views&color=0e75b6&style=flat" alt="spartacoos" /> </p>
 
