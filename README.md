@@ -11,7 +11,7 @@
 
 - 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](spartacoos.github.io)
 
-- 💬 Ask me about **AI/Graphics in either Rust or Python**
+- 💬 Ask me about **AI/Graphics/IoT in either Rust or Python**
 
 - 📫 How to reach me **pecora1999@gmail.com**
 
