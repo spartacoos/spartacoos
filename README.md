@@ -7,7 +7,7 @@
 
 - 🤖 I’m currently working on **a trading bot (for educational purposes) in Rust+Python**
 
-- 🌱 I’m currently learning **Rust**
+- 🦀 I’m currently learning **Rust**
 
 - 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](spartacoos.github.io)
 
