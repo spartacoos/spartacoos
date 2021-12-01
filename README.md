@@ -9,7 +9,7 @@
 
 - 🦀 I’m currently learning **Rust**
 
-- 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](spartacoos.github.io)
+- 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](https://spartacoos.github.io/)
 
 - 💬 Ask me about **AI/Graphics/IoT in either Rust or Python**
 
