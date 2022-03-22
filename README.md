@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI/Graphics/IoT in either Rust or Python**
 
-- 📫 How to reach me **pecora1999@gmail.com**
+- 📫 How to reach me **grisaficarlo@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
