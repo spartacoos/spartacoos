@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A curious student from Venezuela currently residing in 🇬🇧</h3>
+<h3 align="center">A dev from 🇻🇪 living in 🇬🇧 who is interested in all computery things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartacoos&label=Profile%20views&color=0e75b6&style=flat" alt="spartacoos" /> </p>
 
@@ -10,6 +10,8 @@
 - 🦀 I’m currently learning **Rust**
 
 - 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](https://spartacoos.github.io/)
+
+- 🖥️ I use Ubuntu/FreeBSD 
 
 - 💬 Ask me about **AI/Graphics/IoT in either Rust or Python**
 
