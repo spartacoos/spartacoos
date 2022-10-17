@@ -5,17 +5,17 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p> --->
 
-- 🤖 I’m currently working on **a trading bot (for educational purposes) in Rust+Python**
+- 📈 I’m currently working on [ossair](https://github.com/spartacoos/ossair) 
 
-- 🦀 I’m currently learning **Rust**
+- 📱 I’m currently learning **Kotlin (for mobile dev)**
 
 - 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](https://spartacoos.github.io/)
 
-- 🖥️ I use Ubuntu/FreeBSD 
+- 🖥️ I use (mostly) Ubuntu/FreeBSD and sometimes Mac/Windows 
 
-- 💬 Ask me about **AI/Graphics/IoT in either Rust or Python**
+- 💬 Ask me about **AI/Graphics/IoT**
 
-- 📫 How to reach me **grisaficarlo@gmail.com**
+- 📫 How to reach me **pecoracodes@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
