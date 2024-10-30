@@ -5,8 +5,6 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p> --->
 
-- 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](https://spartacoos.github.io/)
-
 - 🖥️ I use (mostly) Ubuntu/FreeBSD at home and Mac/Windows (on the go)
 
 - 💬 Ask me about **AI/Graphics/IoT**
