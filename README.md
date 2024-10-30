@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A dev from 🇻🇪 living in 🇬🇧 who is interested in all computery things</h3>
+<h3 align="center">A dev interested in all computery things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartacoos&label=Profile%20views&color=0e75b6&style=flat" alt="spartacoos" /> </p>
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p> --->
 
-- 📈 I’m currently working on [ossair](https://github.com/spartacoos/ossair) 
-
-- 📱 I’m currently learning **Kotlin (for mobile dev)**
-
 - 👨‍💻 Soon all of my projects will be available at [spartacoos.github.io](https://spartacoos.github.io/)
 
-- 🖥️ I use (mostly) Ubuntu/FreeBSD and sometimes Mac/Windows 
+- 🖥️ I use (mostly) Ubuntu/FreeBSD at home and Mac/Windows (on the go)
 
 - 💬 Ask me about **AI/Graphics/IoT**
 
