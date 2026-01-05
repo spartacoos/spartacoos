@@ -10,6 +10,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### Hardware Projects
+
+[HappyBees: Edge ML Beehive Monitoring with RPi Pico 2 W](https://www.hackster.io/542038/happybees-edge-ml-beehive-monitoring-with-rpi-pico-2-w-3ec9bb)
+
+<img src="https://hackster.imgix.net/uploads/attachments/1912847/_hoB2q4G4tb.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="650" height="400" />
+
 [Low-Power IoT Intruder Detector with RPi4 + Pico](https://www.hackster.io/grisaficarlo/low-power-iot-intruder-detector-with-rpi4-pico-4c37a9)
 
 <img src="https://raw.githubusercontent.com/spartacoos/assets/main/low_power.png" width="650" height="400" />
@@ -25,6 +30,8 @@
 [Programming a Raspberry Pi Pico remotely](https://www.hackster.io/grisaficarlo/programming-a-raspberry-pi-pico-remotely-e23db5)
 
 <img src="https://github.com/spartacoos/assets/blob/7b9b88bf8a56cd7c0acfb48933340dc40feb0358/balena.png" width="650" height="400" />
+
+
 
 ### Videos/Features
 
