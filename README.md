@@ -5,12 +5,6 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p> --->
 
-- 🖥️ I use (mostly) Ubuntu/FreeBSD at home and Mac/Windows (on the go)
-
-- 💬 Ask me about **AI/Graphics/IoT**
-
-- 📫 How to reach me **pecoracodes@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
