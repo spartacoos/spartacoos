@@ -11,6 +11,10 @@
 
 #### Hardware Projects
 
+[PyTorch on a $6 Computer](https://www.youtube.com/watch?v=5FHM2UURAUI)
+
+<img src="https://hackster.imgix.net/uploads/attachments/1920585/pytorch_edecutorch_on_a_2_hardware_(1)_Y58AVdKn6o.png?auto=compress%2Cformat&w=740&h=555&fit=max" width="650" height="400" />
+
 [HappyBees: Edge ML Beehive Monitoring with RPi Pico 2 W](https://www.hackster.io/542038/happybees-edge-ml-beehive-monitoring-with-rpi-pico-2-w-3ec9bb)
 
 <img src="https://hackster.imgix.net/uploads/attachments/1912847/_hoB2q4G4tb.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="650" height="400" />
