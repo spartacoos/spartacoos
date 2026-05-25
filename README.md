@@ -5,11 +5,21 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartacoos" alt="spartacoos" /></a> </p> --->
 
-### Blogs posts
+### Blogs posts / projects
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-#### Hardware Projects
+[LEX: Local-first Legal RAG for EU Directives](https://github.com/spartacoos/LEX)
+
+LEX is a local-first Q&A engine for EU directives. It combines hybrid dense/BM25 retrieval, reranking, HyDE, citation graph traversal, and local LLMs to answer legal questions with Article-level and Recital-level citations.
+
+<a href="https://github.com/spartacoos/LEX">
+  <img
+    src="https://raw.githubusercontent.com/spartacoos/LEX/refs/heads/main/LEX.png"
+    alt="LEX project image"
+    width="423"
+  />
+</a>
 
 [PyTorch on a $6 Computer](https://www.youtube.com/watch?v=5FHM2UURAUI)
 
